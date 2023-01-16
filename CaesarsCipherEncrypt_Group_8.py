@@ -1,7 +1,7 @@
 """
 Name: Gilbert Botchway
 
-Email: gilbert.botchway@azubiafrica.org
+Email: botchwaykojo@gmail.com
 
 """
 
